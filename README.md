@@ -1,74 +1,78 @@
-## Hi there 👋
-<!-- Beautiful Minimalist Coding Header Image -->
+<!-- 🖼️ Custom Profile Banner -->
 <p align="center">
-  <img src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Coding-Is-Hard.gif" alt="Coding Header" width="600" />
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Profile Banner" width="100%" />
 </p>
 
+<!-- 📊 Dynamic Repository Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushi-bisht-817737354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- <a href="https://leetcode.com/u/YOUR_LEETCODE_ID/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
+  <img src="https://img.shields.io/github/stars/khushibisht04?style=for-the-badge&color=202020&labelColor=000000" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/khushibisht04?style=for-the-badge&color=202020&labelColor=000000" alt="Forks" />
+  <img src="https://img.shields.io/github/followers/khushibisht04?style=for-the-badge&color=202020&labelColor=000000" alt="Followers" />
 </p>
 
 ---
 
-### ✨ About Me
+<!-- 🧠 KNOW ABOUT ME SECTION -->
+<div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
+  <h2 align="center" style="margin-top: 0;">🎨 Know About Me</h2>
+  <table border="0" cellpadding="10" cellspacing="0" align="center" style="background: transparent;">
+    <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="https://img.icons8.com/wired/128/FFFFFF/brain.png" width="100" alt="Aesthetic Brain Icon" />
+      </td>
+      <td width="70%" valign="middle">
+        <p align="left" style="color: #e0e0e0; line-height: 1.6;">
+          I am an <b>AI/ML enthusiast</b> and computer science student driven by the intersection of analytical logic and pure imagination. By day, I am diving deep into structured code, exploring predictive pipelines, and unpacking data metrics. When I step away from the screen, I balance my technical focus through painting and sketching. For me, clean programming logic and visual art are two sides of the same coin—both require extreme attention to detail, perspective, and out-of-the-box creative thinking to bring raw ideas to life.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-  I am a computer science student and <b>AI/ML Enthusiast</b> who is passionate about learning how to build intelligent, data-driven applications. I love bridging the gap between analytical logic and creative design—whether I am writing code, exploring predictive models, or blending colors on a canvas.
-</p>
+<!-- 🛠️ LANGUAGES & TOOLS SECTION -->
+<div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
+  <h3 align="center" style="margin-top: 0;">🛠️ Languages & Tools</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,postgres,powerbi,git,github" alt="My Skills" />
+    </a>
+  </p>
+</div>
 
-- 🚀 **Current Journey:** Actively learning software engineering fundamentals, data structures, and diving into advanced problem-solving.
-- 🧠 **Tech Interests:** Exploring Artificial Intelligence, Machine Learning workflows, Python scripting, and working with structured databases.
-- 🎨 **Beyond Coding:** I am an avid painter! Visual artistry fuels my attention to detail and creative thinking, which helps me bring a unique aesthetic perspective to my tech projects.
-- 🎯 **Goals:** Constantly expanding my skill set, building hands-on projects, and preparing to step into the tech industry.
+<!-- 📊 GITHUB ANALYTICS SECTION -->
+<div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
+  <h3 align="center" style="margin-top: 0;">📊 GitHub Analytics</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=khushibisht04&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=languages" alt="Khushi's GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushibisht04&theme=github-dark&hide_border=true" alt="Khushi's GitHub Streak" width="48%" />
+  </p>
+  <p align="center" style="margin-bottom: 0;">
+    <img src="https://komarev.com/ghpvc/?username=khushibisht04&color=202020&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+</div>
 
----
+<!-- 📈 CONTRIBUTION HISTORY SECTION -->
+<div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
+  <h3 align="center" style="margin-top: 0;">📈 Contribution History</h3>
+  <p align="center" style="margin-bottom: 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushibisht04&theme=github-dark&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff" alt="Khushi's Contribution Graph" width="100%" />
+  </p>
+</div>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,postgres,powerbi,git,github&perline=5" alt="My Skills" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushibisht04&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Khushi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushibisht04&theme=dark&hide_border=true" alt="Khushi's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushibisht04&layout=compact&theme=dark&hide_border=true" alt="Khushi's Top Languages" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushibisht04&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-<h3 align="center">🤝 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📈 Profile Activity Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushibisht04&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
----
+<!-- 🤝 CONNECT SECTION -->
+<div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);">
+  <h3 align="center" style="margin-top: 0;">🤝 Connect</h3>
+  <p align="center" style="margin-bottom: 0;">
+    <a href="https://github.com/khushibisht04" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/khushi-bisht-817737354/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:khushibisht649@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
+    </a>
+  </p>
+</div>
