@@ -1,6 +1,6 @@
 <!-- 🖼️ Custom Profile Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Profile Banner" width="100%" />
+  <img src="https://in.pinterest.com/pin/984388431021113990/" alt="Profile Banner" width="100%" />
 </p>
 
 <!-- 📊 Dynamic Repository Badges -->
